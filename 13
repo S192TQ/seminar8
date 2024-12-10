@@ -1,0 +1,6 @@
+git checkout -b branch-4
+git log
+git revert COMMIT_HASH
+git add file
+git commit -m
+git push origin branch-4
